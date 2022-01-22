@@ -24,7 +24,7 @@ MENU = {
         "cost": 3.0,
     }
 }
-
+#Resources Dictionary
 resources = {
     "water": 300,
     "milk": 200,
