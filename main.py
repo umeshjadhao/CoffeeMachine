@@ -1,3 +1,4 @@
+#Dictionary of coffee types
 MENU = {
     "espresso": {
         "ingredients": {
